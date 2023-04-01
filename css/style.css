@@ -1,0 +1,33 @@
+.box{
+  background-color: blue;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.col-lg-2 .box{
+  background-color: rgb(235, 62, 91);
+}
+
+.col-lg-3 .box{
+  background-color:lightsalmon;
+}
+
+.col-lg-4 .box{
+  background-color: goldenrod;
+}
+
+.col-lg-5 .box{
+  background-color:aqua;
+}
+
+.col-lg-7 .box{
+  background-color: blueviolet;
+}
+
+.col-lg-6 .box{
+  background-color: cadetblue;
+}
+
+.col-lg-6 .box{
+  background-color:saddlebrown;
+}
